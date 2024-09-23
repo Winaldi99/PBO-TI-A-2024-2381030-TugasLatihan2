@@ -78,5 +78,4 @@ public class Tugas2 {
     public static double menghitungKelilingLingkaran(double jariJari) {
         return 2 * Math.PI * jariJari;
     }
-
 }
